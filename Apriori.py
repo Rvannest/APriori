@@ -5,7 +5,7 @@ from collections import defaultdict
 baskets = []
 
 # Specify the path to your data file
-data_file_path = "C:\\Users\\R\\vscodework\\4250\\Project1\\retail.txt"
+data_file_path = ""
 
 # Open and read the data file
 with open(data_file_path, 'r') as file:
